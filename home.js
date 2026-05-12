@@ -34,8 +34,8 @@
 
           // Example placeholders because Twitch Helix does not publicly return followers directly anymore.
           // You can integrate StreamElements, SullyGnome, or your own backend for advanced metrics.
-          animateValue('twitchFollowers', 18500);
-          animateValue('twitchViews', 1200000);
+          animateValue('twitchFollowers', 8);
+          animateValue('twitchViews', 30);
 
           checkLiveStatus(user.id);
         }
