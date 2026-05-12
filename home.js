@@ -15,8 +15,7 @@
     // Twitch Integration
     // Replace these values with your own Twitch credentials
     const TWITCH_CLIENT_ID = 'm8ru8xyr0m6o8ywfvm6x6rwa9iub9d';
-    const TWITCH_ACCESS_TOKEN = '4jow7a04zk0jt7a1ihygih2vcqrb7i
-';
+    const TWITCH_ACCESS_TOKEN = '4jow7a04zk0jt7a1ihygih2vcqrb7i';
     const TWITCH_USERNAME = 'celesteauroraiana';
 
     async function fetchTwitchStats() {
